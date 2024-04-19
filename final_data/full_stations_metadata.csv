@@ -1,4 +1,4 @@
-num_poste,latitude,longitude,type,commune,altitude,nom_usuel,num_dep
+NUM_POST,latitude,longitude,type,commune,altitude,nom_usuel,num_dep
 6088001,43.649,7.209,IN,NICE,2,NICE,6
 6088001,43.649,7.209,RR,NICE,2,NICE,6
 6088001,43.649,7.209,TN,NICE,2,NICE,6
