@@ -1,4 +1,4 @@
-num_poste,latitude(°),longitude(°),type
+NUM_POST,latitude(°),longitude(°),type
 6088001,43.649,7.209,IN
 13054001,43.438,5.216,IN
 16089001,45.665,-0.316,IN
